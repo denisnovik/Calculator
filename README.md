@@ -1,1 +1,2 @@
 # Calculator
+This calculator can calculate any examples containing base 2 logarithms, with exponents, with roots, with sines and cosines anywhere in the example. When launched, the user opens a graphic window with the calculator itself, in which you can enter an example using the buttons or using the keyboard. After entering the example, you should click on equals and the example will be calculated. In the event that a mistake was made while writing or something went wrong, an error window will appear, in which it will be said about the problem.
